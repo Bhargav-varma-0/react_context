@@ -1,0 +1,24 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+}
+.main-configuration-controller {
+  height: 20vh;
+  min-width: 100vw;
+  background-color: #475569;
+  color: #f1f5f9;
+}
+.heading {
+  padding: 10px;
+}
+
+.mt {
+  margin-top: 10px;
+}
+.mb {
+  margin-bottom: 10px;
+}
+
+.ul-ele {
+  list-style-type: none;
+}

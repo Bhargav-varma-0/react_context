@@ -1,0 +1,57 @@
+/* Write your CSS here */
+.body-m {
+  height: 500px;
+  color: #64748b;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.ml {
+  margin-left: 10px;
+}
+mr {
+  margin-right: 10px;
+}
+
+.right-navbar {
+  list-style-type: none;
+  width: 20%;
+  height: 480px;
+  background-color: #e2e8f0;
+}
+.left-navbar {
+  list-style-type: none;
+  width: 20%;
+  height: 480px;
+  background-color: #e2e8f0;
+}
+.nav-hd {
+  font-size: 18px;
+}
+.pd {
+  padding: 10px;
+}
+.box {
+  height: 150px;
+  max-width: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #64748b;
+  margin-bottom: 20px;
+}
+
+.pd-0 {
+  padding-inline-start: 0px;
+}
+
+.body-content {
+  width: 100%;
+  padding: 20px;
+  margin: 10px;
+  background-color: #f1f5f9;
+}
